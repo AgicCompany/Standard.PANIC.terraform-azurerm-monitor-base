@@ -1,5 +1,13 @@
 # terraform-azurerm-monitor-base
 
+## Part of PANIC Framework
+
+This module is part of the [PANIC Azure Monitoring Framework](https://github.com/AgicCompany/Standard.PANIC). See the main repository for:
+- Complete documentation
+- Profile system overview
+- Implementation guides
+- Full list of available modules
+
 Base Terraform module for creating Azure Monitor metric alerts. This module is used by resource-specific monitoring modules.
 
 ## Overview
